@@ -1,0 +1,13 @@
+C:\Users\schoo\source\repos\csTest2\csTest2\bin\Debug\netcoreapp3.1\csTest2.exe
+C:\Users\schoo\source\repos\csTest2\csTest2\bin\Debug\netcoreapp3.1\csTest2.deps.json
+C:\Users\schoo\source\repos\csTest2\csTest2\bin\Debug\netcoreapp3.1\csTest2.runtimeconfig.json
+C:\Users\schoo\source\repos\csTest2\csTest2\bin\Debug\netcoreapp3.1\csTest2.runtimeconfig.dev.json
+C:\Users\schoo\source\repos\csTest2\csTest2\bin\Debug\netcoreapp3.1\csTest2.dll
+C:\Users\schoo\source\repos\csTest2\csTest2\bin\Debug\netcoreapp3.1\csTest2.pdb
+C:\Users\schoo\source\repos\csTest2\csTest2\obj\Debug\netcoreapp3.1\csTest2.csprojAssemblyReference.cache
+C:\Users\schoo\source\repos\csTest2\csTest2\obj\Debug\netcoreapp3.1\csTest2.AssemblyInfoInputs.cache
+C:\Users\schoo\source\repos\csTest2\csTest2\obj\Debug\netcoreapp3.1\csTest2.AssemblyInfo.cs
+C:\Users\schoo\source\repos\csTest2\csTest2\obj\Debug\netcoreapp3.1\csTest2.csproj.CoreCompileInputs.cache
+C:\Users\schoo\source\repos\csTest2\csTest2\obj\Debug\netcoreapp3.1\csTest2.dll
+C:\Users\schoo\source\repos\csTest2\csTest2\obj\Debug\netcoreapp3.1\csTest2.pdb
+C:\Users\schoo\source\repos\csTest2\csTest2\obj\Debug\netcoreapp3.1\csTest2.genruntimeconfig.cache
